@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1584020159 source:m:\samsung flow\c project sca\c2020project\car rental\car.c
+	<stdio.h>
+	"car.h"
+	<string.h>
+	"conio2.h"
+	<time.h>
+
+1584020165 m:\samsung flow\c project sca\c2020project\car rental\car.h
+	<time.h>
+
+1578893354 m:\samsung flow\c project sca\c2020project\car rental\conio2.h
+	<conio.h>
+	<windows.h>
+
+1578893354 source:m:\samsung flow\c project sca\c2020project\car rental\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1584020161 source:m:\samsung flow\c project sca\c2020project\car rental\main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+
+1578893354 source:d:\c project sca\c2020project\car rental\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1578893354 d:\c project sca\c2020project\car rental\conio2.h
+	<conio.h>
+	<windows.h>
+
+1584192052 source:d:\c project sca\c2020project\car rental\main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+
+1584169014 d:\c project sca\c2020project\car rental\car.h
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+
+1584192848 source:d:\c project sca\c2020project\car rental\car.c
+	<stdio.h>
+	"car.h"
+	<string.h>
+	"conio2.h"
+	<time.h>
+
+1578893354 source:z:\home\pc7\desktop\pj\c project sca\c2020project\car rental\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1578893354 z:\home\pc7\desktop\pj\c project sca\c2020project\car rental\conio2.h
+	<conio.h>
+	<windows.h>
+
+1584192054 source:z:\home\pc7\desktop\pj\c project sca\c2020project\car rental\main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+
+1584169016 z:\home\pc7\desktop\pj\c project sca\c2020project\car rental\car.h
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+

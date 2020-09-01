@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1583365612 source:d:\c project 2020\carrental\car.c
+	<stdio.h>
+	<string.h>
+	"car.h"
+	"conio2.h"
+	<time.h>
+	<stdlib.h>
+
+1583319332 d:\c project 2020\carrental\car.h
+	<time.h>
+
+1386389378 d:\c project 2020\carrental\conio2.h
+	<conio.h>
+	<windows.h>
+
+1386469476 source:d:\c project 2020\carrental\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1583325200 source:d:\c project 2020\carrental\main.c
+	<stdio.h>
+	<string.h>
+	"car.h"
+	"conio2.h"
+	<time.h>
+
+1386469476 source:d:\carrental\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1386389378 d:\carrental\conio2.h
+	<conio.h>
+	<windows.h>
+
+1583399525 source:c:\users\shash\desktop\sahu\car.c
+	<stdio.h>
+	"car.h"
+	<string.h>
+	"conio2.h"
+	<time.h>
+
+1583399527 c:\users\shash\desktop\sahu\car.h
+	<time.h>
+
+1583386831 c:\users\shash\desktop\sahu\conio2.h
+	<conio.h>
+	<windows.h>
+
+1583386830 source:c:\users\shash\desktop\sahu\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1583399531 source:c:\users\shash\desktop\sahu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+
+1583399525 source:d:\vikash2\car.c
+	<stdio.h>
+	"car.h"
+	<string.h>
+	"conio2.h"
+	<time.h>
+
+1583399527 d:\vikash2\car.h
+	<time.h>
+
+1583386831 d:\vikash2\conio2.h
+	<conio.h>
+	<windows.h>
+
+1583386830 source:d:\vikash2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1583399531 source:d:\vikash2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"car.h"
+	"conio2.h"
+	<string.h>
+	<time.h>
+
