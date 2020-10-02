@@ -1,4 +1,4 @@
-# car_rental_system
+# car_rental_system - A project in C to rent a car
 
 
 Jan 2020 – Feb 2020
